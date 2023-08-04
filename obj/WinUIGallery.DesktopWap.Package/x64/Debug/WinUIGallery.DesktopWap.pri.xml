@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="WinUIGallery.DesktopWap" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200,400,180,150,140,125,100,80</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AllControlsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/AllControlsPage.xbf">
+				<Candidate type="Path">
+					<Value>AllControlsPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ItemPage.xbf">
+				<Candidate type="Path">
+					<Value>ItemPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemTemplates.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ItemTemplates.xbf">
+				<Candidate type="Path">
+					<Value>ItemTemplates.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewControlsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/NewControlsPage.xbf">
+				<Candidate type="Path">
+					<Value>NewControlsPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SearchResultsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SearchResultsPage.xbf">
+				<Candidate type="Path">
+					<Value>SearchResultsPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SectionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SectionPage.xbf">
+				<Candidate type="Path">
+					<Value>SectionPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SettingsPage.xbf">
+				<Candidate type="Path">
+					<Value>SettingsPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="CoffeeCup.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/CoffeeCup.png">
+					<Candidate type="Path">
+						<Value>Assets\CoffeeCup.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Contacts.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Contacts.txt">
+					<Candidate type="Path">
+						<Value>Assets\Contacts.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CopyLinkTeachingTip.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/CopyLinkTeachingTip.png">
+					<Candidate type="Path">
+						<Value>Assets\CopyLinkTeachingTip.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="file.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/file.png">
+					<Candidate type="Path">
+						<Value>Assets\file.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="folder.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/folder.png">
+					<Candidate type="Path">
+						<Value>Assets\folder.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GalleryHeaderImage.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/GalleryHeaderImage.png">
+					<Candidate type="Path">
+						<Value>Assets\GalleryHeaderImage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LottieLogo1.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/LottieLogo1.png">
+					<Candidate type="Path">
+						<Value>Assets\LottieLogo1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ninegrid.gif" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ninegrid.gif">
+					<Candidate type="Path">
+						<Value>Assets\ninegrid.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Slices.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Slices.png">
+					<Candidate type="Path">
+						<Value>Assets\Slices.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Slices2.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Slices2.png">
+					<Candidate type="Path">
+						<Value>Assets\Slices2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SunBlack.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SunBlack.png">
+					<Candidate type="Path">
+						<Value>Assets\SunBlack.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SunWhite.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SunWhite.png">
+					<Candidate type="Path">
+						<Value>Assets\SunWhite.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Typography.dark.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Typography.dark.png">
+					<Candidate type="Path">
+						<Value>Assets\Typography.dark.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Typography.light.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Typography.light.png">
+					<Candidate type="Path">
+						<Value>Assets\Typography.light.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="ControlIcons">
+					<NamedResource name="AcrylicBrushIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AcrylicBrushIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AcrylicBrushIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimationsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AnimationsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AnimationsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AppBarButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AppBarButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AppBarIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AppBarIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarSeparatorIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AppBarSeparatorIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AppBarSeparatorIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarToggleButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AppBarToggleButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AppBarToggleButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AutoSuggestBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/AutoSuggestBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\AutoSuggestBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BorderIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/BorderIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\BorderIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CalendarDatePickerIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CalendarDatePickerIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CalendarDatePickerIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CalendarViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CalendarViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CalendarViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CanvasIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CanvasIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CanvasIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CheckBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CheckBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CheckBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorPickerIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ColorPickerIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ColorPickerIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ComboBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ComboBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ComboBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommandBarFlyoutIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CommandBarFlyoutIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CommandBarFlyoutIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommandBarIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CommandBarIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CommandBarIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CompactSizingIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/CompactSizingIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\CompactSizingIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ConnectedAnimationsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ConnectedAnimationsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ConnectedAnimationsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DatePickerIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/DatePickerIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\DatePickerIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/DefaultIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\DefaultIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DropdownButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/DropdownButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\DropdownButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="EasingFunctionsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/EasingFunctionsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\EasingFunctionsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FlipViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/FlipViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\FlipViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FlyoutIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/FlyoutIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\FlyoutIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GridIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/GridIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\GridIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GridViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/GridViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\GridViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HyperlinkButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/HyperlinkButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\HyperlinkButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ImageIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ImageIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ImageIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ListBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ListBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ListViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ListViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MediaElementIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/MediaElementIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\MediaElementIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuBarIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/MenuBarIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\MenuBarIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuFlyoutIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/MenuFlyoutIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\MenuFlyoutIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/NavigationViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\NavigationViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="new.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/new.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\new.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NumberBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/NumberBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\NumberBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ParallaxViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ParallaxViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ParallaxViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PasswordBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/PasswordBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\PasswordBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PersonPictureIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/PersonPictureIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\PersonPictureIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PivotIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/PivotIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\PivotIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="previewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/previewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\previewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProgressBarIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ProgressBarIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ProgressBarIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProgressRingIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ProgressRingIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ProgressRingIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PullToRefreshIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/PullToRefreshIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\PullToRefreshIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RadioButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RadioButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RadioButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RadioButtonsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RadioButtonsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RadioButtonsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RatingControlIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RatingControlIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RatingControlIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RelativePanelIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RelativePanelIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RelativePanelIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RevealFocusIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RevealFocusIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RevealFocusIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RichEditBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RichEditBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RichEditBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RichTextBlockIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/RichTextBlockIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\RichTextBlockIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ScrollViewerIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ScrollViewerIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ScrollViewerIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SliderIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SliderIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SliderIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SoundIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SoundIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SoundIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SplitButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SplitButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SplitButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SplitViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SplitViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SplitViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StackPanelIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/StackPanelIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\StackPanelIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StoryboardAnimationIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/StoryboardAnimationIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\StoryboardAnimationIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SwipeIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SwipeIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SwipeIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SystemBackdropsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/SystemBackdropsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\SystemBackdropsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TeachingTipIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TeachingTipIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextBlockIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TextBlockIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TextBlockIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextBoxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TextBoxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TextBoxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePickerIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TimePickerIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TimePickerIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimingDurationIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TimingDurationIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TimingDurationIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ToggleButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ToggleButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleSplitButtonIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ToggleSplitButtonIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ToggleSplitButtonIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleSwitchIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ToggleSwitchIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ToggleSwitchIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToolTipIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ToolTipIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ToolTipIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TransitionsIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TransitionsIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TransitionsIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TreeViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/TreeViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\TreeViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="updatedIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/updatedIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\updatedIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="VariableSizedWrapGridIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/VariableSizedWrapGridIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\VariableSizedWrapGridIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ViewboxIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/ViewboxIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\ViewboxIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="WebViewIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlIcons/WebViewIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlIcons\WebViewIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ControlImages">
+					<NamedResource name="Acrylic.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Acrylic.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Acrylic.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimatedIcon.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AnimatedIcon.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AnimatedIcon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimatedVisualPlayer.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AnimatedVisualPlayer.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AnimatedVisualPlayer.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimationInterop.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AnimationInterop.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AnimationInterop.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AppBarButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AppBarButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarSeparator.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AppBarSeparator.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AppBarSeparator.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AppBarToggleButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AppBarToggleButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AppBarToggleButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AutomationProperties.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AutomationProperties.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AutomationProperties.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AutoSuggestBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/AutoSuggestBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\AutoSuggestBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Border.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Border.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Border.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BreadcrumbBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/BreadcrumbBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\BreadcrumbBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Button.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Button.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Button.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CalendarDatePicker.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CalendarDatePicker.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CalendarDatePicker.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CalendarView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CalendarView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CalendarView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Canvas.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Canvas.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Canvas.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Checkbox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Checkbox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Checkbox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Clipboard.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Clipboard.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Clipboard.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorPaletteResources.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ColorPaletteResources.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ColorPaletteResources.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorPicker.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ColorPicker.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ColorPicker.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ComboBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ComboBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ComboBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommandBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CommandBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CommandBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommandBarFlyout.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CommandBarFlyout.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CommandBarFlyout.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CompactSizing.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CompactSizing.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CompactSizing.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ConnectedAnimation.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ConnectedAnimation.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ConnectedAnimation.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ContentDialog.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ContentDialog.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ContentDialog.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CreateMultipleWindows.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/CreateMultipleWindows.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\CreateMultipleWindows.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DataGrid.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/DataGrid.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\DataGrid.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DatePicker.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/DatePicker.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\DatePicker.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DropDownButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/DropDownButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\DropDownButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="EasingFunction.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/EasingFunction.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\EasingFunction.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Expander.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Expander.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Expander.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePicker.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/FilePicker.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\FilePicker.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FlipView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/FlipView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\FlipView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Flyout.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Flyout.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Flyout.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Grid.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Grid.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Grid.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GridView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/GridView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\GridView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HyperlinkButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/HyperlinkButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\HyperlinkButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="IconElement.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/IconElement.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\IconElement.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Image.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Image.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Image.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ImplicitTransition.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ImplicitTransition.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ImplicitTransition.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="InfoBadge.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/InfoBadge.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\InfoBadge.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="InfoBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/InfoBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\InfoBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="InkCanvas.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/InkCanvas.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\InkCanvas.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="InkToolbar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/InkToolbar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\InkToolbar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="InputValidation.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/InputValidation.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\InputValidation.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeater.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ItemsRepeater.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ItemsRepeater.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Line.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Line.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Line.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ListBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ListBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ListView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ListView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MediaPlayerElement.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/MediaPlayerElement.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\MediaPlayerElement.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/MenuBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\MenuBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuFlyout.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/MenuFlyout.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\MenuFlyout.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/NavigationView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\NavigationView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NumberBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/NumberBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\NumberBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PageTransition.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/PageTransition.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\PageTransition.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ParallaxView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ParallaxView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ParallaxView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PasswordBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/PasswordBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\PasswordBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PersonPicture.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/PersonPicture.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\PersonPicture.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PipsPager.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/PipsPager.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\PipsPager.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Pivot.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Pivot.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Pivot.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProgressBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ProgressBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ProgressBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProgressRing.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ProgressRing.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ProgressRing.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PullToRefresh.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/PullToRefresh.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\PullToRefresh.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RadialGradientBrush.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RadialGradientBrush.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RadialGradientBrush.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RadioButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RadioButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RadioButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RadioButtons.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RadioButtons.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RadioButtons.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RatingControl.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RatingControl.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RatingControl.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RelativePanel.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RelativePanel.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RelativePanel.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RepeatButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RepeatButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RepeatButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RevealFocus.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RevealFocus.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RevealFocus.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RichEditBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RichEditBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RichEditBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RichTextBlock.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/RichTextBlock.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\RichTextBlock.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ScrollViewer.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ScrollViewer.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ScrollViewer.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SemanticZoom.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/SemanticZoom.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\SemanticZoom.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Shape.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Shape.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Shape.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Slider.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Slider.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Slider.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Sound.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Sound.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Sound.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SplitButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/SplitButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\SplitButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SplitView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/SplitView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\SplitView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StackPanel.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/StackPanel.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\StackPanel.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StandardUICommand.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/StandardUICommand.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\StandardUICommand.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SwipeControl.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/SwipeControl.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\SwipeControl.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TabView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TabView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TabView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTip.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TeachingTip.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TeachingTip.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextBlock.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TextBlock.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TextBlock.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextBox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TextBox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TextBox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeTransition.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ThemeTransition.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ThemeTransition.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TimePicker.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TimePicker.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TitleBar.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TitleBar.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TitleBar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ToggleButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ToggleButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleSplitButton.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ToggleSplitButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ToggleSplitButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToggleSwitch.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ToggleSwitch.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ToggleSwitch.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ToolTip.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/ToolTip.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\ToolTip.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TreeView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/TreeView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\TreeView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="VariableSizedWrapGrid.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/VariableSizedWrapGrid.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\VariableSizedWrapGrid.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Viewbox.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/Viewbox.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\Viewbox.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="WebView.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/WebView.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\WebView.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="XamlUICommand.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/ControlImages/XamlUICommand.png">
+						<Candidate type="Path">
+							<Value>Assets\ControlImages\XamlUICommand.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="HomeHeaderTiles">
+					<NamedResource name="Header-Store.dark.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/HomeHeaderTiles/Header-Store.dark.png">
+						<Candidate type="Path">
+							<Value>Assets\HomeHeaderTiles\Header-Store.dark.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Header-Store.light.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/HomeHeaderTiles/Header-Store.light.png">
+						<Candidate type="Path">
+							<Value>Assets\HomeHeaderTiles\Header-Store.light.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Header-Toolkit.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/HomeHeaderTiles/Header-Toolkit.png">
+						<Candidate type="Path">
+							<Value>Assets\HomeHeaderTiles\Header-Toolkit.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Header-WindowsDesign.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/HomeHeaderTiles/Header-WindowsDesign.png">
+						<Candidate type="Path">
+							<Value>Assets\HomeHeaderTiles\Header-WindowsDesign.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Header-WinUIGallery.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/HomeHeaderTiles/Header-WinUIGallery.png">
+						<Candidate type="Path">
+							<Value>Assets\HomeHeaderTiles\Header-WinUIGallery.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SampleMedia">
+					<NamedResource name="cliff.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/cliff.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\cliff.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fishes.wmv" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/fishes.wmv">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\fishes.wmv</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="grapes.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/grapes.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\grapes.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ladybug.wmv" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/ladybug.wmv">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\ladybug.wmv</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage1.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage1.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage1.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage2.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage2.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage3.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage3.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage3.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage4.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage4.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage4.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage5.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage5.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage5.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage6.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage6.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage6.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage7.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage7.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage7.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LandscapeImage8.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/LandscapeImage8.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\LandscapeImage8.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MirrorPCConsent.svg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/MirrorPCConsent.svg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\MirrorPCConsent.svg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rainier.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/rainier.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\rainier.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sunset.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/sunset.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\sunset.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="treetops.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/treetops.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\treetops.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="valley.jpg" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/SampleMedia/valley.jpg">
+						<Candidate type="Path">
+							<Value>Assets\SampleMedia\valley.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="TabViewIcons">
+					<NamedResource name="cmd.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/TabViewIcons/cmd.png">
+						<Candidate type="Path">
+							<Value>Assets\TabViewIcons\cmd.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="linux.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/TabViewIcons/linux.png">
+						<Candidate type="Path">
+							<Value>Assets\TabViewIcons\linux.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="powershell.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/TabViewIcons/powershell.png">
+						<Candidate type="Path">
+							<Value>Assets\TabViewIcons\powershell.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Tiles">
+					<NamedResource name="GalleryIcon.ico" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/GalleryIcon.ico">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\GalleryIcon.ico</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LargeTile.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/LargeTile.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\LargeTile.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\LargeTile.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\LargeTile.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\LargeTile.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\LargeTile.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SmallTile-sdk.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/SmallTile-sdk.png">
+						<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-unplated_targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-lightunplated_targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-unplated_targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-lightunplated_targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-unplated_targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-lightunplated_targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-unplated_targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-lightunplated_targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-unplated_targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.altform-lightunplated_targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile-sdk.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SmallTile.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/SmallTile.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\SmallTile.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="splash-sdk.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/splash-sdk.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\splash-sdk.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\splash-sdk.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\splash-sdk.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\splash-sdk.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\splash-sdk.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="squaretile-sdk.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/squaretile-sdk.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\squaretile-sdk.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\squaretile-sdk.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\squaretile-sdk.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\squaretile-sdk.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\squaretile-sdk.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StoreLogo-sdk.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/StoreLogo-sdk.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\StoreLogo-sdk.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\StoreLogo-sdk.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\StoreLogo-sdk.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\StoreLogo-sdk.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\StoreLogo-sdk.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Tile_General.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/Tile_General.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\Tile_General.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TitlebarLogo.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/TitlebarLogo.png">
+						<Candidate type="Path">
+							<Value>Assets\Tiles\TitlebarLogo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="widelogo.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/widelogo.png">
+						<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideLogo.scale-80.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-180" isDefault="true" type="Path">
+							<Value>Assets\Tiles\widelogo.scale-180.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-140" isDefault="true" type="Path">
+							<Value>Assets\Tiles\widelogo.scale-140.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\widelogo.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="WideTile.png" uri="ms-resource://WinUIGallery.DesktopWap/Files/Assets/Tiles/WideTile.png">
+						<Candidate qualifiers="Scale-400" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideTile.scale-400.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideTile.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideTile.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-125" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideTile.scale-125.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Assets\Tiles\WideTile.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="ReadMe.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/Common/ReadMe.txt">
+					<Candidate type="Path">
+						<Value>Common\ReadMe.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CommunityToolkit.Labs.WinUI.SegmentedControl">
+				<ResourceMapSubtree name="Segmented">
+					<NamedResource name="Segmented.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SegmentedControl/Segmented/Segmented.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SegmentedItem">
+					<NamedResource name="SegmentedItem.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SegmentedControl/SegmentedItem/SegmentedItem.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SegmentedControl/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CommunityToolkit.Labs.WinUI.SettingsControls">
+				<ResourceMapSubtree name="SettingsCard">
+					<NamedResource name="SettingsCard.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SettingsControls/SettingsCard/SettingsCard.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SettingsExpander">
+					<NamedResource name="SettingsExpander.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SettingsControls/SettingsExpander/SettingsExpander.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/CommunityToolkit.Labs.WinUI.SettingsControls/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ConnectedAnimationPages">
+				<NamedResource name="CardPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ConnectedAnimationPages/CardPage.xbf">
+					<Candidate type="Path">
+						<Value>ConnectedAnimationPages\CardPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CollectionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ConnectedAnimationPages/CollectionPage.xbf">
+					<Candidate type="Path">
+						<Value>ConnectedAnimationPages\CollectionPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DetailedInfoPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ConnectedAnimationPages/DetailedInfoPage.xbf">
+					<Candidate type="Path">
+						<Value>ConnectedAnimationPages\DetailedInfoPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ControlPages">
+				<NamedResource name="AcrylicPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AcrylicPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AcrylicPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AnimatedIconPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AnimatedIconPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AnimatedIconPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AnimatedVisualPlayerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AnimatedVisualPlayerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AnimatedVisualPlayerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppBarButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AppBarButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AppBarButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppBarSeparatorPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AppBarSeparatorPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AppBarSeparatorPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppBarToggleButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AppBarToggleButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AppBarToggleButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoSuggestBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/AutoSuggestBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\AutoSuggestBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BorderPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/BorderPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\BorderPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BreadcrumbBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/BreadcrumbBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\BreadcrumbBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CalendarDatePickerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CalendarDatePickerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CalendarDatePickerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CalendarViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CalendarViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CalendarViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CanvasPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CanvasPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CanvasPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CheckBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CheckBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CheckBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClipboardPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ClipboardPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ClipboardPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ColorPaletteResourcesPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ColorPaletteResourcesPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ColorPaletteResourcesPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ColorPickerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ColorPickerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ColorPickerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ComboBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ComboBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ComboBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommandBarFlyoutPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CommandBarFlyoutPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CommandBarFlyoutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommandBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CommandBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CommandBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CompactSizingPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CompactSizingPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CompactSizingPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CompactSpacingPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CompactSpacingPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CompactSpacingPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ConnectedAnimationPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ConnectedAnimationPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ConnectedAnimationPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentDialogContent.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ContentDialogContent.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ContentDialogContent.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentDialogExample.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ContentDialogExample.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ContentDialogExample.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentDialogPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ContentDialogPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ContentDialogPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CreateMultipleWindowsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/CreateMultipleWindowsPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\CreateMultipleWindowsPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataGridPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DataGridPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\DataGridPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DatePickerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DatePickerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\DatePickerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DropDownButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DropDownButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\DropDownButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EasingFunctionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/EasingFunctionPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\EasingFunctionPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExpanderPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ExpanderPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ExpanderPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FilePickerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/FilePickerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\FilePickerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlipViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/FlipViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\FlipViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlyoutPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/FlyoutPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\FlyoutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GridPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/GridPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\GridPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GridViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/GridViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\GridViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HyperlinkButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/HyperlinkButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\HyperlinkButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IconElementPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/IconElementPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\IconElementPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ImagePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ImagePage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ImagePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ImplicitTransitionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ImplicitTransitionPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ImplicitTransitionPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBadgePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/InfoBadgePage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\InfoBadgePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/InfoBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\InfoBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ItemsRepeaterPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ItemsRepeaterPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ItemsRepeaterPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LinePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/LinePage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\LinePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ListBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ListBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ListBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ListViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ListViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ListViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediaPlayerElementPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/MediaPlayerElementPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\MediaPlayerElementPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MenuBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/MenuBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\MenuBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MenuFlyoutPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/MenuFlyoutPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\MenuFlyoutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/NavigationViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\NavigationViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NumberBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/NumberBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\NumberBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PageTransitionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PageTransitionPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PageTransitionPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParallaxViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ParallaxViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ParallaxViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PasswordBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PasswordBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PasswordBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PersonPicturePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PersonPicturePage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PersonPicturePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PipsPagerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PipsPagerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PipsPagerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PivotPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PivotPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PivotPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ProgressBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ProgressBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressRingPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ProgressRingPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ProgressRingPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PullToRefreshPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/PullToRefreshPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\PullToRefreshPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RadialGradientBrushPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RadialGradientBrushPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RadialGradientBrushPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RadioButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RadioButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RadioButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RadioButtonsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RadioButtonsPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RadioButtonsPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingControlPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RatingControlPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RatingControlPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RelativePanelPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RelativePanelPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RelativePanelPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RepeatButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RepeatButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RepeatButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RevealFocusPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RevealFocusPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RevealFocusPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichEditBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RichEditBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RichEditBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichTextBlockPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/RichTextBlockPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\RichTextBlockPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ScrollViewerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ScrollViewerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ScrollViewerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SemanticZoomPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SemanticZoomPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SemanticZoomPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShapePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ShapePage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ShapePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SliderPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SliderPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SliderPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SoundPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SoundPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SoundPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplitButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SplitButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SplitButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplitViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SplitViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SplitViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StackPanelPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/StackPanelPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\StackPanelPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StandardUICommandPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/StandardUICommandPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\StandardUICommandPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SwipeControlPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SwipeControlPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SwipeControlPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SystemBackdropsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/SystemBackdropsPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\SystemBackdropsPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TabViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TabViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TeachingTipPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TeachingTipPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBlockPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TextBlockPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TextBlockPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBoxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TextBoxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TextBoxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ThemeTransitionPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ThemeTransitionPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ThemeTransitionPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimePickerPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TimePickerPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TimePickerPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TitleBarPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TitleBarPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TitleBarPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToggleButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ToggleButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ToggleButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToggleSplitButtonPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ToggleSplitButtonPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ToggleSplitButtonPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToggleSwitchPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ToggleSwitchPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ToggleSwitchPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ToolTipPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ToolTipPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TreeViewPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/TreeViewPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\TreeViewPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VariableSizedWrapGridPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/VariableSizedWrapGridPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\VariableSizedWrapGridPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ViewboxPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/ViewboxPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\ViewboxPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WebView2Page.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/WebView2Page.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\WebView2Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="XamlCompInteropPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/XamlCompInteropPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\XamlCompInteropPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="XamlUICommandPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/XamlUICommandPage.xbf">
+					<Candidate type="Path">
+						<Value>ControlPages\XamlUICommandPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="DesignGuidance">
+					<NamedResource name="AccessibilityColorContrastPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/AccessibilityColorContrastPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\AccessibilityColorContrastPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AccessibilityKeyboardPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/AccessibilityKeyboardPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\AccessibilityKeyboardPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AccessibilityScreenReaderPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/AccessibilityScreenReaderPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\AccessibilityScreenReaderPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/ColorsPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\ColorsPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="IconsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/IconsPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\IconsPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TypographyPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPages/DesignGuidance/TypographyPage.xbf">
+						<Candidate type="Path">
+							<Value>ControlPages\DesignGuidance\TypographyPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ControlPagesSampleCode">
+				<ResourceMapSubtree name="Brushes">
+					<NamedResource name="RadialGradientBrushSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Brushes/RadialGradientBrushSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Brushes\RadialGradientBrushSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Buttons">
+					<ResourceMapSubtree name="Button">
+						<NamedResource name="CustomButtonStyle.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/Button/CustomButtonStyle.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\Button\CustomButtonStyle.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="DropDown">
+						<NamedResource name="DropDownButton_Icon.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/DropDown/DropDownButton_Icon.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\DropDown\DropDownButton_Icon.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DropDownButton_RevealStyle.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/DropDown/DropDownButton_RevealStyle.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\DropDown\DropDownButton_RevealStyle.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DropDownButton_Simple.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/DropDown/DropDownButton_Simple.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\DropDown\DropDownButton_Simple.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="SplitButton">
+						<NamedResource name="SplitButtonSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/SplitButton/SplitButtonSample1.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\SplitButton\SplitButtonSample1.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SplitButtonSample2.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/SplitButton/SplitButtonSample2.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\SplitButton\SplitButtonSample2.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ToggleSplitButton">
+						<NamedResource name="ToggleSplitButtonSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Buttons/ToggleSplitButton/ToggleSplitButtonSample1.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Buttons\ToggleSplitButton\ToggleSplitButtonSample1.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CommandBarFlyout">
+					<NamedResource name="CommandBarFlyoutSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/CommandBarFlyout/CommandBarFlyoutSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\CommandBarFlyout\CommandBarFlyoutSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommandBarFlyoutSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/CommandBarFlyout/CommandBarFlyoutSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\CommandBarFlyout\CommandBarFlyoutSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ContentDialog">
+					<NamedResource name="ContentDialogSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ContentDialog/ContentDialogSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ContentDialog\ContentDialogSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ContentDialogSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ContentDialog/ContentDialogSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ContentDialog\ContentDialogSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="GridView">
+					<NamedResource name="GridViewSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/GridView/GridViewSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\GridView\GridViewSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GridViewSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/GridView/GridViewSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\GridView\GridViewSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icons">
+					<NamedResource name="AnimatedIconSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/AnimatedIconSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\AnimatedIconSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimatedIconSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/AnimatedIconSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\AnimatedIconSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimatedIconSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/AnimatedIconSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\AnimatedIconSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FontIconSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/FontIconSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\FontIconSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FontIconSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/FontIconSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\FontIconSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ImageIconSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/ImageIconSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\ImageIconSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ImageIconSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/ImageIconSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\ImageIconSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PathIconSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/PathIconSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\PathIconSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SymbolIconSample_1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Icons/SymbolIconSample_1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Icons\SymbolIconSample_1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ItemsRepeater">
+					<NamedResource name="ItemsRepeaterNestedSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterNestedSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterNestedSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample2_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample2_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample3_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample3_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample3_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample3_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample4_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample4_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ItemsRepeaterSample4_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ItemsRepeater/ItemsRepeaterSample4_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ItemsRepeater\ItemsRepeaterSample4_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ListView">
+					<NamedResource name="ListViewGroupedHeaderSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewGroupedHeaderSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewGroupedHeaderSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample2_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample2_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample3_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample3_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample4_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample4_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewSample4_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewSample4_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewSample4_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListViewStickyHeaderSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/ListView/ListViewStickyHeaderSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\ListView\ListViewStickyHeaderSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="MenuBar">
+					<NamedResource name="MenuBarSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/MenuBar/MenuBarSample1.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\MenuBar\MenuBarSample1.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuBarSample2.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/MenuBar/MenuBarSample2.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\MenuBar\MenuBarSample2.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuBarSample3.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/MenuBar/MenuBarSample3.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\MenuBar\MenuBarSample3.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Motion">
+					<ResourceMapSubtree name="AnimationInterop">
+						<NamedResource name="AnimationInteropSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample1_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample1_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample2_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample2_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample2_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample2_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample3_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample3_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample4_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample4_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample5_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample5_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample5_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnimationInteropSample5_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/AnimationInterop/AnimationInteropSample5_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\AnimationInterop\AnimationInteropSample5_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ConnectedAnimation">
+						<NamedResource name="ConnectedAnimationSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/ConnectedAnimation/ConnectedAnimationSample1_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\ConnectedAnimation\ConnectedAnimationSample1_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ConnectedAnimationSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/ConnectedAnimation/ConnectedAnimationSample1_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\ConnectedAnimation\ConnectedAnimationSample1_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ConnectedAnimationSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/ConnectedAnimation/ConnectedAnimationSample2_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\ConnectedAnimation\ConnectedAnimationSample2_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ConnectedAnimationSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/ConnectedAnimation/ConnectedAnimationSample2_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\ConnectedAnimation\ConnectedAnimationSample2_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ConnectedAnimationSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Motion/ConnectedAnimation/ConnectedAnimationSample3_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Motion\ConnectedAnimation\ConnectedAnimationSample3_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="NavigationView">
+					<NamedResource name="NavigationViewSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample1.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample1.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample2.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample2.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample2.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample3.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample3.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample3.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample4_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample4_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample4_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample4_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample4_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample5_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample5_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample5_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample5_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample5_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample5_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample6.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample6.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample6.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample8_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample8_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample8_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationViewSample9_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NavigationView/NavigationViewSample9_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NavigationView\NavigationViewSample9_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="NumberBox">
+					<NamedResource name="NumberBoxSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NumberBox/NumberBoxSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NumberBox\NumberBoxSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NumberBoxSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NumberBox/NumberBoxSample3_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NumberBox\NumberBoxSample3_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NumberBoxSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/NumberBox/NumberBoxSample3_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\NumberBox\NumberBoxSample3_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="StandardUICommand">
+					<NamedResource name="StandardUICommandSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/StandardUICommand/StandardUICommandSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\StandardUICommand\StandardUICommandSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StandardUICommandSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/StandardUICommand/StandardUICommandSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\StandardUICommand\StandardUICommandSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="System">
+					<NamedResource name="FilePickerSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample2_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample2_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample3_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample3_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample3_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample3_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample4_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample4_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample4_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample4_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample4_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample5_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample5_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample5_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FilePickerSample5_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/System/FilePickerSample5_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\System\FilePickerSample5_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SystemBackdrops">
+					<NamedResource name="SystemBackdropsEnsureSystemDQC.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/SystemBackdrops/SystemBackdropsEnsureSystemDQC.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\SystemBackdrops\SystemBackdropsEnsureSystemDQC.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SystemBackdropsSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/SystemBackdrops/SystemBackdropsSample1.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\SystemBackdrops\SystemBackdropsSample1.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SystemBackdropsSample2.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/SystemBackdrops/SystemBackdropsSample2.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\SystemBackdrops\SystemBackdropsSample2.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SystemBackdropsSample3.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/SystemBackdrops/SystemBackdropsSample3.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\SystemBackdrops\SystemBackdropsSample3.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SystemBackdropsSample4.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/SystemBackdrops/SystemBackdropsSample4.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\SystemBackdrops\SystemBackdropsSample4.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="TabView">
+					<NamedResource name="TabViewBasicSample_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TabView/TabViewBasicSample_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TabView\TabViewBasicSample_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TabViewKeyboardAcceleratorSample_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TabView/TabViewKeyboardAcceleratorSample_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TabView\TabViewKeyboardAcceleratorSample_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="TeachingTip">
+					<NamedResource name="TeachingTipSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipSample2_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample2_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample2_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipSample2_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample2_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample2_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample3_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample3_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TeachingTipSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TeachingTip/TeachingTipSample3_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TeachingTip\TeachingTipSample3_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Text">
+					<ResourceMapSubtree name="RichEditBox">
+						<NamedResource name="RichEditBoxSample3_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Text/RichEditBox/RichEditBoxSample3_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Text\RichEditBox\RichEditBoxSample3_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="RichEditBoxSample3_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Text/RichEditBox/RichEditBoxSample3_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Text\RichEditBox\RichEditBoxSample3_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="RichEditBoxSample4_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Text/RichEditBox/RichEditBoxSample4_cs.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Text\RichEditBox\RichEditBoxSample4_cs.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="RichEditBoxSample4_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Text/RichEditBox/RichEditBoxSample4_xaml.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Text\RichEditBox\RichEditBoxSample4_xaml.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="TreeView">
+					<NamedResource name="TreeViewDataBindingSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TreeView/TreeViewDataBindingSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TreeView\TreeViewDataBindingSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TreeViewTemplateSelectorSample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/TreeView/TreeViewTemplateSelectorSample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\TreeView\TreeViewTemplateSelectorSample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Typography">
+					<NamedResource name="TypographySample_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Typography/TypographySample_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Typography\TypographySample_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Window">
+					<NamedResource name="CreateWindowSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Window/CreateWindowSample1.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\Window\CreateWindowSample1.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="TitleBar">
+						<NamedResource name="TitleBarSample1.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Window/TitleBar/TitleBarSample1.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Window\TitleBar\TitleBarSample1.txt</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TitleBarSample2.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/Window/TitleBar/TitleBarSample2.txt">
+							<Candidate type="Path">
+								<Value>ControlPagesSampleCode\Window\TitleBar\TitleBarSample2.txt</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="XamlUICommand">
+					<NamedResource name="XamlUICommandSample1_cs.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/XamlUICommand/XamlUICommandSample1_cs.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\XamlUICommand\XamlUICommandSample1_cs.txt</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="XamlUICommandSample1_xaml.txt" uri="ms-resource://WinUIGallery.DesktopWap/Files/ControlPagesSampleCode/XamlUICommand/XamlUICommandSample1_xaml.txt">
+						<Candidate type="Path">
+							<Value>ControlPagesSampleCode\XamlUICommand\XamlUICommandSample1_xaml.txt</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Controls">
+				<NamedResource name="ControlExample.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/ControlExample.xbf">
+					<Candidate type="Path">
+						<Value>Controls\ControlExample.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HeaderTile.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/HeaderTile.xbf">
+					<Candidate type="Path">
+						<Value>Controls\HeaderTile.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HomePageHeaderImage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/HomePageHeaderImage.xbf">
+					<Candidate type="Path">
+						<Value>Controls\HomePageHeaderImage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InlineColorPicker.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/InlineColorPicker.xbf">
+					<Candidate type="Path">
+						<Value>Controls\InlineColorPicker.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PageHeader.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/PageHeader.xbf">
+					<Candidate type="Path">
+						<Value>Controls\PageHeader.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleCodePresenter.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/SampleCodePresenter.xbf">
+					<Candidate type="Path">
+						<Value>Controls\SampleCodePresenter.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleThemeListener.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/SampleThemeListener.xbf">
+					<Candidate type="Path">
+						<Value>Controls\SampleThemeListener.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TileGallery.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/TileGallery.xbf">
+					<Candidate type="Path">
+						<Value>Controls\TileGallery.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="CopyButton">
+					<NamedResource name="CopyButton.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/CopyButton/CopyButton.xbf">
+						<Candidate type="Path">
+							<Value>Controls\CopyButton\CopyButton.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="DesignGuidance">
+					<NamedResource name="ColorPageExample.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorPageExample.xbf">
+						<Candidate type="Path">
+							<Value>Controls\DesignGuidance\ColorPageExample.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorTile.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorTile.xbf">
+						<Candidate type="Path">
+							<Value>Controls\DesignGuidance\ColorTile.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TypographyControl.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/TypographyControl.xbf">
+						<Candidate type="Path">
+							<Value>Controls\DesignGuidance\TypographyControl.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="ColorSections">
+						<NamedResource name="BackgroundSection.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorSections/BackgroundSection.xbf">
+							<Candidate type="Path">
+								<Value>Controls\DesignGuidance\ColorSections\BackgroundSection.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="FillSection.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorSections/FillSection.xbf">
+							<Candidate type="Path">
+								<Value>Controls\DesignGuidance\ColorSections\FillSection.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SignalSection.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorSections/SignalSection.xbf">
+							<Candidate type="Path">
+								<Value>Controls\DesignGuidance\ColorSections\SignalSection.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="StrokeSection.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorSections/StrokeSection.xbf">
+							<Candidate type="Path">
+								<Value>Controls\DesignGuidance\ColorSections\StrokeSection.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TextSection.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Controls/DesignGuidance/ColorSections/TextSection.xbf">
+							<Candidate type="Path">
+								<Value>Controls\DesignGuidance\ColorSections\TextSection.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="ControlInfoData.json" uri="ms-resource://WinUIGallery.DesktopWap/Files/DataModel/ControlInfoData.json">
+					<Candidate type="Path">
+						<Value>DataModel\ControlInfoData.json</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IconsData.json" uri="ms-resource://WinUIGallery.DesktopWap/Files/DataModel/IconsData.json">
+					<Candidate type="Path">
+						<Value>DataModel\IconsData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Navigation">
+				<NamedResource name="NavigationRootPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/Navigation/NavigationRootPage.xbf">
+					<Candidate type="Path">
+						<Value>Navigation\NavigationRootPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SamplePages">
+				<NamedResource name="SampleBuiltInSystemBackdropsWindow.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SampleBuiltInSystemBackdropsWindow.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SampleBuiltInSystemBackdropsWindow.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleCompactSizingPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SampleCompactSizingPage.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SampleCompactSizingPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage1.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage1.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage1.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage2.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage2.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage2.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage3.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage3.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage3.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage4.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage4.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage4.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage5.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage5.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage5.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage6.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage6.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage6.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SamplePage7.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SamplePage7.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SamplePage7.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleSettingsPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SampleSettingsPage.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SampleSettingsPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleStandardSizingPage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SampleStandardSizingPage.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SampleStandardSizingPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SampleSystemBackdropsWindow.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/SamplePages/SampleSystemBackdropsWindow.xbf">
+					<Candidate type="Path">
+						<Value>SamplePages\SampleSystemBackdropsWindow.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TabViewPages">
+				<NamedResource name="MyTabContentControl.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/TabViewPages/MyTabContentControl.xbf">
+					<Candidate type="Path">
+						<Value>TabViewPages\MyTabContentControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewWindowingSamplePage.xbf" uri="ms-resource://WinUIGallery.DesktopWap/Files/TabViewPages/TabViewWindowingSamplePage.xbf">
+					<Candidate type="Path">
+						<Value>TabViewPages\TabViewWindowingSamplePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="helpFlyoutContent" uri="ms-resource://WinUIGallery.DesktopWap/Resources/helpFlyoutContent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>From any control page, open the help panel from the bottom app bar to see custom help content for that control.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="helpFlyoutLabel" uri="ms-resource://WinUIGallery.DesktopWap/Resources/helpFlyoutLabel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Help</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HTMLCloseTags" uri="ms-resource://WinUIGallery.DesktopWap/Resources/HTMLCloseTags">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>&lt;/body&gt;&lt;/html&gt;</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HTMLOpenTags" uri="ms-resource://WinUIGallery.DesktopWap/Resources/HTMLOpenTags">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>&lt;!DOCTYPE html&gt;&lt;html lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;style&gt;body {font-family: 'Segoe UI';}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PageStringRoot" uri="ms-resource://WinUIGallery.DesktopWap/Resources/PageStringRoot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>AppUIBasics.ControlPages.</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AllControlsPage_PageHeader">
+				<NamedResource name="Title" uri="ms-resource://WinUIGallery.DesktopWap/Resources/AllControlsPage_PageHeader/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All controls</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AllControlsPage_SmallHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/AllControlsPage_SmallHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All controls</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ByFunctionHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/ByFunctionHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Controls by function</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ByNameHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/ByNameHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Controls by name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DocHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/DocHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Documentation</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/FeedbackHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Feedback</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackLink">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/FeedbackLink/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Send feedback about this page</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_AddCreditOrDebitCardCaption">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_AddCreditOrDebitCardCaption/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add a credit or debit card</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_AddressField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_AddressField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Address</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_AddressField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter address</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CardHolderNameField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CardHolderNameField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cardholder name</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CardHolderNameField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CardNumberField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CardNumberField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Card number</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CardNumberField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter card number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CCVField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CCVField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>CCV</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CCVField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>XXXX</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CityField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CityField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>City</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CityField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter city</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CreditCardExpirationDateMonthSelector">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CreditCardExpirationDateMonthSelector/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Expiration date</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CreditCardExpirationDateMonthSelector/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>MM</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_CreditCardExpirationDateYearSelector">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CreditCardExpirationDateYearSelector/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Expiration date</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_CreditCardExpirationDateYearSelector/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>YYYY</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_PurchaseFlowCancelButton">
+				<NamedResource name="Content" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_PurchaseFlowCancelButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_PurchaseFlowNextButton">
+				<NamedResource name="Content" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_PurchaseFlowNextButton/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Next</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_StateSelector">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_StateSelector/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>State</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_StateSelector/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter state</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="InputValidationPage_ZipCodeField">
+				<NamedResource name="Header" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_ZipCodeField/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ZIP</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceholderText" uri="ms-resource://WinUIGallery.DesktopWap/Resources/InputValidationPage_ZipCodeField/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter ZIP code</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NewControlsPage_PageHeader">
+				<NamedResource name="Title" uri="ms-resource://WinUIGallery.DesktopWap/Resources/NewControlsPage_PageHeader/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>What's New</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NewControlsPage_SmallHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/NewControlsPage_SmallHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>What's New</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="RelatedControlsHeader">
+				<NamedResource name="Text" uri="ms-resource://WinUIGallery.DesktopWap/Resources/RelatedControlsHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Related controls </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

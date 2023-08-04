@@ -1,0 +1,227 @@
+﻿<UserControl x:ConnectionId='1'
+    x:Class="AppUIBasics.ControlExample"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:contract7Present="using:Microsoft.UI.Xaml.Controls?IsApiContractPresent(Windows.Foundation.UniversalApiContract,7)"
+    xmlns:controls="using:AppUIBasics.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:muxc="using:Microsoft.UI.Xaml.Controls" xmlns:controls1="using:WinUIGallery.DesktopWap.Controls"
+    x:Name="RootPanel"
+    Margin="0,16,0,0"
+    d:DesignHeight="250"
+    d:DesignWidth="1000"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='2' x:Name="rootGrid"                         >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:ConnectionId='8' x:Name="IntermediateLayout">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="740" />
+                    </VisualState.StateTriggers>
+                </VisualState>
+                <VisualState x:ConnectionId='9' x:Name="PhoneLayout">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="OptionsPresenter.HorizontalContentAlignment" Value="Left" />
+                        <Setter Target="OptionsPresenter.Margin" Value="0,24,0,0" />
+                        <Setter Target="OptionsPresenter.BorderThickness" Value="0,1,0,0" />
+                        <Setter Target="OptionsPresenter.(Grid.Row)" Value="1" />
+                        <Setter Target="OptionsPresenter.(Grid.Column)" Value="0" />
+                        <Setter Target="OptionsPresenter.(Grid.ColumnSpan)" Value="2" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+
+            <VisualStateGroup>
+                <VisualState x:ConnectionId='6' x:Name="NormalMode" />
+                <VisualState x:ConnectionId='7' x:Name="ScreenshotMode">
+                    <VisualState.Setters>
+                        <Setter Target="CodeScrollViewer.Visibility" Value="Collapsed" />
+                        <Setter Target="ControlPresenter.Padding" Value="{ThemeResource ControlElementScreenshotModePadding}" />
+                        <Setter Target="ControlPresenter.HorizontalAlignment" Value="Center" />
+                        <Setter Target="ScreenshotControls.Visibility" Value="Visible" />
+                        <Setter Target="ExampleContainer.Background" Value="{ThemeResource SystemControlPageBackgroundBaseLowBrush}" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+
+            <VisualStateGroup x:ConnectionId='3' x:Name="SampleCodeSeparatorStates">
+                <VisualState x:ConnectionId='4' x:Name="SeparatorCollapsed" />
+                <VisualState x:ConnectionId='5' x:Name="SeparatorVisible">
+                    <VisualState.Setters>
+                        <Setter Target="SampleCodeSeparator.Visibility" Value="Visible" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <TextBlock x:ConnectionId='10'
+            x:Name="HeaderTextPresenter"
+            Margin="0,12"
+            Style="{ThemeResource BodyStrongTextBlockStyle}"
+            AutomationProperties.HeadingLevel="Level3"
+                                       />
+
+        <RichTextBlock x:ConnectionId='11'
+            x:Name="ErrorTextBlock"
+            Grid.Row="1"
+            Margin="0,0,0,12"
+            Foreground="{ThemeResource SystemFillColorCriticalBrush}"
+            IsTextSelectionEnabled="True"
+            Visibility="Collapsed">
+            <Paragraph>
+                This sample requires a later version of Windows to be fully functional. Learn more about version adaptive apps:<Hyperlink NavigateUri="https://learn.microsoft.com/windows/uwp/debug-test-perf/version-adaptive-apps">https://learn.microsoft.com/windows/uwp/debug-test-perf/version-adaptive-apps</Hyperlink>
+            </Paragraph>
+        </RichTextBlock>
+
+        <Grid Grid.Row="2" CornerRadius="8">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <controls1:SampleThemeListener>
+                <Grid x:ConnectionId='21'
+                    x:Name="ExampleContainer"
+                    x:FieldModifier="Public"
+                    Background="{ThemeResource ControlExampleDisplayBrush}"
+                    BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                    BorderThickness="1"
+                    CornerRadius="8,8,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="Auto" MaxWidth="320" />
+                        <ColumnDefinition Width="Auto" MaxWidth="320" />
+                    </Grid.ColumnDefinitions>
+
+                    <!--  Example Display  -->
+                        <ContentPresenter x:ConnectionId='22'
+                            x:Name="ControlPresenter"
+                            Padding="12"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Stretch"
+                                                                                            
+                            Background="{ThemeResource ControlExampleDisplayBrush}"
+                            BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                            BorderThickness="{ThemeResource ControlExampleDisplayBorderThickness}"
+                                                      
+                            CornerRadius="8,8,0,0" />
+
+                    <!--  Output Display  -->
+                    <StackPanel x:ConnectionId='23'
+                        Grid.Column="1"
+                        Margin="0,12,12,12"
+                        Padding="16"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Stretch"
+                        Background="{ThemeResource ControlExampleDisplayBrush}"
+                        CornerRadius="8"
+                        Orientation="Vertical"
+                                                                                                          >
+                        <TextBlock Text="Output:" />
+                        <ContentPresenter x:ConnectionId='25' x:Name="OutputPresenter"                           />
+                    </StackPanel>
+
+                    <!--  Options Display  -->
+                    <ContentPresenter x:ConnectionId='24'
+                        x:Name="OptionsPresenter"
+                        Grid.Column="2"
+                        Padding="16"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"
+                        Background="{ThemeResource CardBackgroundFillColorDefaultBrush}"
+                        BorderBrush="{ThemeResource DividerStrokeColorDefaultBrush}"
+                        BorderThickness="1,0,0,0"
+                                                  
+                                                                                                            />
+                </Grid>
+            </controls1:SampleThemeListener>
+
+            <!--  Sample code display  -->
+            <muxc:Expander
+                Grid.Row="1"
+                HorizontalAlignment="Stretch"
+                HorizontalContentAlignment="Stretch"
+                contract7Present:CornerRadius="0,0,8,8"
+                Background="{ThemeResource CardBackgroundFillColorSecondaryBrush}">
+
+                <muxc:Expander.Header>
+                    <TextBlock Text="Source code" />
+                </muxc:Expander.Header>
+
+                <StackPanel                           >
+                    <controls:SampleCodePresenter x:ConnectionId='18'
+                        x:Name="XamlPresenter"
+                                            
+                                                            
+                                                               />
+                    <Border x:ConnectionId='19'
+                        x:Name="SampleCodeSeparator"
+                        Margin="0,20"
+                        BorderBrush="{ThemeResource SystemControlBackgroundBaseMediumBrush}"
+                        BorderThickness="1"
+                        Visibility="Collapsed" />
+                    <controls:SampleCodePresenter x:ConnectionId='20'
+                        x:Name="CSharpPresenter"
+                                              
+                                                              
+                        SampleType="CSharp"
+                                                               />
+                </StackPanel>
+            </muxc:Expander>
+
+            <StackPanel x:ConnectionId='12'
+                x:Name="ScreenshotControls"
+                Grid.Row="2"
+                Margin="0,6,0,0"
+                Orientation="Horizontal"
+                Spacing="6"
+                Visibility="Collapsed">
+                <Button x:ConnectionId='13'
+                    x:Name="ScreenshotButton"
+                    HorizontalAlignment="Left"
+                                                  
+                    Content="Take Screenshot" />
+
+                <Button x:ConnectionId='14'
+                    x:Name="ScreenshotDelayButton"
+                    HorizontalAlignment="Left"
+                                                       
+                    Content="Take Screenshot With Delay" />
+
+                <TextBlock x:ConnectionId='15'
+                    x:Name="ScreenshotStatusTextBlock"
+                    Margin="0,0,0,1"
+                    VerticalAlignment="Center" />
+
+                <TextBlock x:ConnectionId='16'
+                    x:Name="PaddingLabel"
+                    Margin="5,0,5,1"
+                    VerticalAlignment="Center"
+                    Text="Padding:" />
+                <TextBox x:ConnectionId='17'
+                    x:Name="ControlPaddingBox"
+                    Width="150"
+                                                                          
+                                                   
+                                                            />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>
+
